@@ -4,7 +4,7 @@
 
 
 
-#### Tecnologias Experimentadas
+#### Tecnologias Experimentadas 💻🖥️
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
@@ -43,7 +43,7 @@
 ![GIT HUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![GIT LAB](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white) ![AZURE DEVOPS](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 
-#### Estatísticas
+#### Estatísticas 📊
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleibp&show_icons=true&theme=transparent)
 
