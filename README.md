@@ -16,6 +16,9 @@ Pós-graduado em Redes de Computadores e Desenvolvimento de Software Web pela UF
 
 Obtive experiências profissionais como professor de informática, administrador de redes, servidores, sistemas e desenvolvedor de softwares (desktop, web e mobile). 👯
 
+<div style="display: inline_block"><br>
+  <img align="right" alt="IMAGEM" height="150" style="border-radius:50px;" src="https://www.flickr.com/photos/197479484@N02/52638336981/in/dateposted-public/">
+</div>
 
 #### 🤔 Tecnologias Experimentadas 💻🖥️
 ______________________________
