@@ -74,4 +74,8 @@ _______________________________
 - 💬 Ask me about ...
 -->
 
-![snake gif](https://github.com/cleibp/cleibp/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/cleibp/pacman-view/blob/main/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/cleibp/pacman-view/blob/main/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://github.com/cleibp/pacman-view/blob/main/pacman-contribution-graph.svg">
+</picture>
