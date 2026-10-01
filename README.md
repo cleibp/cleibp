@@ -1,10 +1,9 @@
-<img align="right" alt="Cleiton Paiva" height="150" style="border-radius:50px;" src="https://i.imgur.com/hEerQmq.png">
-
 # 👋 Olá, eu sou Cleiton Paiva
 
 ### Software Engineer | Tech Lead | Backend • Arquitetura • Cloud • Sistemas Distribuídos
 
 > Construindo software escalável, resiliente e observável.
+
 
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cleibp@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/16988368457) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/cleibp) [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cleibp) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleitonpaiva/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/cleiton.bezerrapaiva/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cleitoon.paiva/) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@cleibp) [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@cleiton.desenvolvedor) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/cleibp)
 
@@ -13,6 +12,8 @@
 ---
 
 ## 🧑‍💻 Sobre mim
+
+<img align="right" alt="Cleiton Paiva" height="150" style="border-radius:50px;" src="https://i.imgur.com/hEerQmq.png">
 
 Sou **Engenheiro da Computação** com mais de 10 anos de experiência em tecnologia, atuando em desenvolvimento de software, arquitetura de sistemas, backend, cloud e engenharia de dados. Tenho vivência em ambientes de alta complexidade, com **APIs, microsserviços, integrações, sistemas distribuídos, cloud e liderança técnica**.
 
