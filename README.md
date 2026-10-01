@@ -162,7 +162,6 @@ Comparação experimental entre **.NET, Spring Boot, Node.js, Go e Rust**, medin
 
 Documentação técnica criada durante minha jornada: 🐧 Linux · 🔀 Git · 📝 Conventional Commits · 🐳 Docker · ☸️ Kubernetes · ☁️ AWS · 🏗️ Terraform · 🔧 Ansible · 🗄️ SQL · 🔌 REST APIs · 📡 Kafka · 🧠 Design Patterns · 🏛️ System Design
 
-👉 [`knowledge-base`](https://github.com/cleibp/knowledgeBase)
 
 ---
 
