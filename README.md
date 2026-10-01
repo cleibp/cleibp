@@ -1,81 +1,213 @@
-### Olá, 😄 Eu sou o Cleiton Paiva 👋
-______________________________
+<img align="right" alt="Cleiton Paiva" height="150" style="border-radius:50px;" src="https://i.imgur.com/hEerQmq.png">
 
-### 🤔 Entre em contato comigo: 📫
+# 👋 Olá, eu sou Cleiton Paiva
 
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cleibp@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/16988368457) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/cleibp) [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cleibp) [WIX](https://cleibp.wixsite.com/curriculo) [LATTES](http://lattes.cnpq.br/8231423108411419) [ABOUT](https://about.me/cleitonbezerrapaiva) [BEACONS](https://beacons.ai/cleibp) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleitonpaiva/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/cleiton.bezerrapaiva/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cleibp/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cleibp) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@cleibp) [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@cleibp) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/cleibp)
+### Software Engineer | Tech Lead | Backend • Arquitetura • Cloud • Sistemas Distribuídos
 
-### 🤔 Apresentação ✨
-_______________________________
+> Construindo software escalável, resiliente e observável.
 
-<img align="right" alt="IMAGEM" height="150" style="border-radius:50px;" src="https://i.imgur.com/hEerQmq.png">
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cleibp@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/16988368457) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/cleibp) [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cleibp) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleitonpaiva/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/cleiton.bezerrapaiva/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cleibp/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cleibp) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@cleibp) [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@cleibp) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/cleibp)
 
-Nascido em 27/02/1986, casado, pai, natural e residente de Matão - SP. 🌱
+🎓 [Lattes](http://lattes.cnpq.br/8231423108411419) · 🌐 [Portfólio](https://cleibp.wixsite.com/curriculo) · 🔗 [About.me](https://about.me/cleitonbezerrapaiva) · 📍 [Beacons](https://beacons.ai/cleibp)
 
-Apaixonado por tecnologia, esportes e conteúdo geek. 🔭
+---
 
-Pós-graduado em Redes de Computadores e Desenvolvimento de Software Web pela UFSCar (Universidade Federal de São Carlos -SP), graduado em Engenharia de Computação pela Faculdade Logatti de Araraquara – SP, formações técnicas em Eletrotécnica, Eletroeletrônica e Informática pela Escola Técnica da rede Centro Paula Souza de Matão – SP. ⚡
+## 🧑‍💻 Sobre mim
 
-Obtive experiências profissionais como professor de informática, administrador de redes, servidores, sistemas e desenvolvedor de softwares (desktop, web e mobile). 👯
+Sou **Engenheiro da Computação** com mais de 10 anos de experiência em tecnologia, atuando em desenvolvimento de software, arquitetura de sistemas, backend, cloud e engenharia de dados. Tenho vivência em ambientes de alta complexidade, com **APIs, microsserviços, integrações, sistemas distribuídos, cloud e liderança técnica**.
 
-  
+Natural e residente de Matão – SP, casado e pai. 🌱 Apaixonado por tecnologia, esportes e conteúdo geek. 🔭
 
+Ao longo da carreira fui professor de informática, administrador de redes, servidores e sistemas, e desenvolvedor de software (desktop, web e mobile). Hoje uso este espaço para construir e documentar projetos sobre **arquitetura, sistemas distribuídos, performance e cloud**.
 
-### 🤔 Tecnologias Experimentadas 💻🖥️
-______________________________
+### 🎓 Formação
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+* **Pós-graduação** em Redes de Computadores e em Desenvolvimento de Software Web – UFSCar (São Carlos – SP)
+* **Graduação** em Engenharia de Computação – Faculdade Logatti (Araraquara – SP)
+* **Cursos técnicos** em Eletrotécnica, Eletroeletrônica e Informática – Centro Paula Souza (Matão – SP)
 
-![Bat Scritp](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white) ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+---
 
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![General badge](https://img.shields.io/badge/Halm--<>.svg) ![General badge](https://img.shields.io/badge/PUG--<>.svg)  
+## 🧭 O que você encontrará aqui
 
+```text
+🏆 SHOWCASE        Projetos completos e arquiteturas de referência
+🏗️ ARCHITECTURE    DDD • Clean Architecture • SOLID • CQRS • Event-Driven • Microservices
+☁️ CLOUD & DEVOPS  AWS • Docker • Kubernetes • Terraform • CI/CD
+⚡ DISTRIBUTED     Kafka • RabbitMQ • SQS • Redis • Resilience • Idempotency • Outbox
+📊 OBSERVABILITY   OpenTelemetry • Prometheus • Grafana • Logs • Metrics • Tracing
+🧪 LABS            Experimentos de tecnologia, performance e arquitetura
+📚 KNOWLEDGE       Guias, padrões, cheatsheets e documentação
+```
 
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![General badge](https://img.shields.io/badge/LESS--<>.svg)  ![General badge](https://img.shields.io/badge/Stylus--<>.svg)   
+---
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Material](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) ![General badge](https://img.shields.io/badge/JQueryUI--<>.svg) 
+## 🚀 Projeto em destaque
 
+### 🏢 Enterprise Platform
 
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![React](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+> Plataforma distribuída desenvolvida para explorar arquitetura de sistemas de alta escala.
 
-![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+`C#` `Java` `Go` `Node.js` `Python` `Rust` · `Kafka` `PostgreSQL` `Redis` · `Docker` `Kubernetes` `AWS` `Terraform` · `OpenTelemetry` `Prometheus` `Grafana`
 
-![General badge](https://img.shields.io/badge/PASCAL--<>.svg) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![SWIFT](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) ![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![SAP/ABAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+```text
+                    ┌──────────────────┐
+                    │   API Gateway    │
+                    └────────┬─────────┘
+                             │
+          ┌──────────────────┼──────────────────┐
+          ▼                  ▼                  ▼
+     ┌──────────┐       ┌──────────┐       ┌──────────┐
+     │  Orders  │       │ Customers│       │ Payments │
+     │   .NET   │       │  Spring  │       │    Go    │
+     └────┬─────┘       └────┬─────┘       └────┬─────┘
+          └──────────────────┼──────────────────┘
+                             ▼
+                        ┌─────────┐
+                        │  Kafka  │
+                        └────┬────┘
+               ┌─────────────┼─────────────┐
+               ▼             ▼             ▼
+          Notification   Inventory      Analytics
+             Node.js        Rust          Python
+```
 
+**Conceitos aplicados:** DDD · Clean Architecture · Event-Driven · Microservices · CQRS · Outbox Pattern · Idempotência · Resiliência · Distributed Tracing · Observabilidade · Infrastructure as Code
 
-![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MICROSOFT SQL SERVER](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black) ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![REDIS](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white) ![ELASTIC SEARCH](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+👉 [`enterprise-platform`](https://github.com/cleibp/enterprise-platform)
 
-![WIX](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white) ![JOOMLA](https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white) ![WORDPRESS](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+---
 
+## 🧪 Engineering Labs
 
-![DIGITAL OCEAN](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![AZURE](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+### ⚡ Backend Performance Lab
 
-![NATIVESCRIPT](https://img.shields.io/badge/NativeScript-3655FF?style=for-the-badge&logo=NativeScript&logoColor=black) ![REACT NATIVE](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+Comparação experimental entre **.NET, Spring Boot, Node.js, Go e Rust**, medindo requests/s, latência (P50/P95/P99), CPU, memória, startup time e throughput.
 
+> O objetivo é medir características técnicas em um cenário controlado, não declarar uma tecnologia universalmente superior.
 
-![ADOBE XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+---
 
-![General badge](https://img.shields.io/badge/SVN--<>.svg) ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![General badge](https://img.shields.io/badge/MERCURIAL--<>.svg)
+## 🏗️ Arquitetura & Mensageria
 
+**Padrões estudados e implementados:** Clean Architecture · Hexagonal · DDD · SOLID · CQRS · Event Sourcing · Microservices · Modular Monolith · Saga · Outbox · API Gateway · Circuit Breaker · Retry · Bulkhead · Strangler Fig
 
-![GIT HUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![GIT LAB](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white) ![AZURE DEVOPS](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+**Mensageria:** Apache Kafka · RabbitMQ · AWS SQS/SNS · Redis · Pub/Sub · Dead Letter Queue · Retry · Idempotency · Eventual Consistency
 
+---
 
-### 🤔 Estatísticas 📊
-_______________________________
+## 💻 Stack de tecnologias
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleibp&show_icons=true&theme=transparent)
+**Linguagens**
 
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleibp&layout=compact)](https://github.com/cleibp/github-readme-stats)
+**Backend & Frameworks**
 
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-<!--
-- 💬 Ask me about ...
--->
+**Front-end & Mobile**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+**Bancos de dados**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+
+**Cloud, DevOps & Mensageria**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+**Observabilidade & Sistemas**
+
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-2CA5E0?style=flat-square&logo=powershell&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnubash&logoColor=white)
+
+---
+
+## 📚 Knowledge Base
+
+Documentação técnica criada durante minha jornada: 🐧 Linux · 🔀 Git · 📝 Conventional Commits · 🐳 Docker · ☸️ Kubernetes · ☁️ AWS · 🏗️ Terraform · 🔧 Ansible · 🗄️ SQL · 🔌 REST APIs · 📡 Kafka · 🧠 Design Patterns · 🏛️ System Design
+
+👉 [`knowledge-base`](https://github.com/cleibp/knowledgeBase)
+
+---
+
+## 🧠 Princípios de engenharia
+
+```text
+Design for change.            Make failures observable.
+Keep systems simple.          Prefer explicit architecture.
+Automate what you can.        Build for resilience.
+Measure before optimizing.    Document important decisions.
+```
+
+## 📈 Foco atual
+
+`Distributed Systems` `System Design` `Cloud Architecture` `Backend Engineering` `Performance Engineering` `Observability` `Kubernetes` `Event-Driven Architecture`
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img alt="GitHub stats" height="170" src="https://github-readme-stats.vercel.app/api?username=cleibp&show_icons=true&theme=transparent&hide_border=true" />
+  <img alt="Top Langs" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleibp&layout=compact&theme=transparent&hide_border=true" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/cleibp/pacman-view/blob/main/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/cleibp/pacman-view/blob/main/pacman-contribution-graph.svg">
   <img alt="Pacman Contribution Graph" src="https://github.com/cleibp/pacman-view/blob/main/pacman-contribution-graph.svg">
 </picture>
+
+---
+
+<p align="center">
+  <i>"Software engineering is not only about writing code — it's about designing systems that solve problems."</i>
+</p>
