@@ -6,9 +6,9 @@
 
 > Construindo software escalável, resiliente e observável.
 
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cleibp@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/16988368457) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/cleibp) [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cleibp) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleitonpaiva/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/cleiton.bezerrapaiva/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cleibp/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cleibp) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@cleibp) [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@cleibp) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/cleibp)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cleibp@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/16988368457) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/cleibp) [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cleibp) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleitonpaiva/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/cleiton.bezerrapaiva/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cleitoon.paiva/) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@cleibp) [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@cleiton.desenvolvedor) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/cleibp)
 
-🎓 [Lattes](http://lattes.cnpq.br/8231423108411419) · 🌐 [Portfólio](https://cleibp.wixsite.com/curriculo) · 🔗 [About.me](https://about.me/cleitonbezerrapaiva) · 📍 [Beacons](https://beacons.ai/cleibp)
+🎓 [Lattes](http://lattes.cnpq.br/8231423108411419) · 🌐 [Portfólio](https://cleibp.com.br/) · 🔗 [About.me](https://about.me/cleitonbezerrapaiva) · 📍 [Beacons](https://beacons.ai/cleibp)
 
 ---
 
@@ -27,18 +27,6 @@ Ao longo da carreira fui professor de informática, administrador de redes, serv
 * **Cursos técnicos** em Eletrotécnica, Eletroeletrônica e Informática – Centro Paula Souza (Matão – SP)
 
 ---
-
-## 🧭 O que você encontrará aqui
-
-```text
-🏆 SHOWCASE        Projetos completos e arquiteturas de referência
-🏗️ ARCHITECTURE    DDD • Clean Architecture • SOLID • CQRS • Event-Driven • Microservices
-☁️ CLOUD & DEVOPS  AWS • Docker • Kubernetes • Terraform • CI/CD
-⚡ DISTRIBUTED     Kafka • RabbitMQ • SQS • Redis • Resilience • Idempotency • Outbox
-📊 OBSERVABILITY   OpenTelemetry • Prometheus • Grafana • Logs • Metrics • Tracing
-🧪 LABS            Experimentos de tecnologia, performance e arquitetura
-📚 KNOWLEDGE       Guias, padrões, cheatsheets e documentação
-```
 
 ---
 
@@ -177,15 +165,6 @@ Documentação técnica criada durante minha jornada: 🐧 Linux · 🔀 Git · 
 👉 [`knowledge-base`](https://github.com/cleibp/knowledgeBase)
 
 ---
-
-## 🧠 Princípios de engenharia
-
-```text
-Design for change.            Make failures observable.
-Keep systems simple.          Prefer explicit architecture.
-Automate what you can.        Build for resilience.
-Measure before optimizing.    Document important decisions.
-```
 
 ## 📈 Foco atual
 
