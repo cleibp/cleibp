@@ -28,7 +28,6 @@ Ao longo da carreira fui professor de informática, administrador de redes, serv
 
 ---
 
----
 
 ## 🚀 Projeto em destaque
 
