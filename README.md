@@ -30,60 +30,6 @@ Ao longo da carreira fui professor de informática, administrador de redes, serv
 ---
 
 
-## 🚀 Projeto em destaque
-
-### 🏢 Enterprise Platform
-
-> Plataforma distribuída desenvolvida para explorar arquitetura de sistemas de alta escala.
-
-`C#` `Java` `Go` `Node.js` `Python` `Rust` · `Kafka` `PostgreSQL` `Redis` · `Docker` `Kubernetes` `AWS` `Terraform` · `OpenTelemetry` `Prometheus` `Grafana`
-
-```text
-                    ┌──────────────────┐
-                    │   API Gateway    │
-                    └────────┬─────────┘
-                             │
-          ┌──────────────────┼──────────────────┐
-          ▼                  ▼                  ▼
-     ┌──────────┐       ┌──────────┐       ┌──────────┐
-     │  Orders  │       │ Customers│       │ Payments │
-     │   .NET   │       │  Spring  │       │    Go    │
-     └────┬─────┘       └────┬─────┘       └────┬─────┘
-          └──────────────────┼──────────────────┘
-                             ▼
-                        ┌─────────┐
-                        │  Kafka  │
-                        └────┬────┘
-               ┌─────────────┼─────────────┐
-               ▼             ▼             ▼
-          Notification   Inventory      Analytics
-             Node.js        Rust          Python
-```
-
-**Conceitos aplicados:** DDD · Clean Architecture · Event-Driven · Microservices · CQRS · Outbox Pattern · Idempotência · Resiliência · Distributed Tracing · Observabilidade · Infrastructure as Code
-
-👉 [`enterprise-platform`](https://github.com/cleibp/enterprise-platform)
-
----
-
-## 🧪 Engineering Labs
-
-### ⚡ Backend Performance Lab
-
-Comparação experimental entre **.NET, Spring Boot, Node.js, Go e Rust**, medindo requests/s, latência (P50/P95/P99), CPU, memória, startup time e throughput.
-
-> O objetivo é medir características técnicas em um cenário controlado, não declarar uma tecnologia universalmente superior.
-
----
-
-## 🏗️ Arquitetura & Mensageria
-
-**Padrões estudados e implementados:** Clean Architecture · Hexagonal · DDD · SOLID · CQRS · Event Sourcing · Microservices · Modular Monolith · Saga · Outbox · API Gateway · Circuit Breaker · Retry · Bulkhead · Strangler Fig
-
-**Mensageria:** Apache Kafka · RabbitMQ · AWS SQS/SNS · Redis · Pub/Sub · Dead Letter Queue · Retry · Idempotency · Eventual Consistency
-
----
-
 ## 💻 Stack de tecnologias
 
 **Linguagens**
@@ -155,19 +101,6 @@ Comparação experimental entre **.NET, Spring Boot, Node.js, Go e Rust**, medin
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-2CA5E0?style=flat-square&logo=powershell&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnubash&logoColor=white)
-
----
-
-## 📚 Knowledge Base
-
-Documentação técnica criada durante minha jornada: 🐧 Linux · 🔀 Git · 📝 Conventional Commits · 🐳 Docker · ☸️ Kubernetes · ☁️ AWS · 🏗️ Terraform · 🔧 Ansible · 🗄️ SQL · 🔌 REST APIs · 📡 Kafka · 🧠 Design Patterns · 🏛️ System Design
-
-
----
-
-## 📈 Foco atual
-
-`Distributed Systems` `System Design` `Cloud Architecture` `Backend Engineering` `Performance Engineering` `Observability` `Kubernetes` `Event-Driven Architecture`
 
 ---
 
