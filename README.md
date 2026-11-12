@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Cleiton Paiva
 
-### Software Engineer | Tech Lead | Backend • Arquitetura • Cloud • Sistemas Distribuídos
+### Sn Software Engineer | Tech Lead | Backend • Arquitetura • Cloud • Sistemas Distribuídos
 
 > Construindo software escalável, resiliente e observável.
 
